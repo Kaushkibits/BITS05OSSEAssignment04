@@ -1,7 +1,9 @@
-# BITS05OSSEAssignment04
-
-# Welcome to Open Source Assignment!
-
-This is a collaborative project created for Open Source Assignment. 
-
-This project showcases various constructs from Java Programming. 
+This is Final BITS Group#4 Assignment from Kaushiki, Sreepriya ,Sreevidya and Vipin.
+Below is the ReadMe file content
+•	Introduction: This is Readme file for Project in Java programming for different types of constructs .
+•	Purpose: This is to make contributors understand the purpose and usage of github prospects
+•	Prerequisites: This includes all the foundations setups like folder structures, remote access available etc.
+•	Mandatory Setups: No mandatory setups required here as it’s a demo project.
+•	Failure Message tracking: If there is a error, where to check, how does it convey the message here.
+•	Troubleshooting: How to troubleshoot, where to look, Reviewing updates in files.
+•	Success Criteria: Once done, message displayed to confirm on how it works is the indication that the project is successfully deployed.
