@@ -5,10 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class LoginService {
 
-	public boolean validateUser(String userid) {
-		return userid.equalsIgnoreCase("Summer");
-	}
-public boolean validatePassword(String password) {
-		return  password.equalsIgnoreCase("Qwerty@1234");
-	}
+	public boolean validateUserDetails(String userid, String password) {
+		return userid.equalsIgnoreCase("Dummy")
+				&& password.equalsIgnoreCase("Qwerty@123");
 }
