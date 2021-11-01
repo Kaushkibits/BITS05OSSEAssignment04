@@ -7,7 +7,7 @@ public class LoginService {
 
 	public boolean validateUser(String userid, String password) {
 		return userid.equalsIgnoreCase("Kaushki")
-				&& password.equalsIgnoreCase("qwerty@123");
+				&& password.equalsIgnoreCase("*****");
 	}
 
 }
