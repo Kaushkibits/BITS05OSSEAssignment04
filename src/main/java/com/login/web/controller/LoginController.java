@@ -25,9 +25,9 @@ public class LoginController {
 	@RequestMapping(value="/login", method = RequestMethod.POST)
 	public String showWelcomePage(ModelMap model, @RequestParam String uname, @RequestParam String password){
 		
-		boolean isValidUser = service.validateUser(uname, password);
+		boolean isValid = service.validateUser(uname, password);
 		
-		if (!isValidUser) {
+		if (!isValid) {
 			model.put("errorMessage", "Login failed due to incorrect \n"
 					+ "username and password");
 			return "login successful";
