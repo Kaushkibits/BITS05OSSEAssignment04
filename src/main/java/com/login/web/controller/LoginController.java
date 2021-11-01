@@ -30,13 +30,13 @@ public class LoginController {
 		if (!isValidUser) {
 			model.put("errorMessage", "Login failed due to incorrect \n"
 					+ "username and password");
-			return "login";
+			return "login successful";
 			
 		}
 		
 		model.put("name", uname);
 		model.put("password", password);
 		
-		return "welcome";
+		return "welcome to my page!!";
 	}
 }
