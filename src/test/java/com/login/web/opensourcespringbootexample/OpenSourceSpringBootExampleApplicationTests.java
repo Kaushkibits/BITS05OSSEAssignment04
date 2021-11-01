@@ -10,4 +10,7 @@ class OpenSourceSpringBootExampleApplicationTests {
 	void contextLoads() {
 	}
 
+        void contextLoadsNew() {
+	}
+
 }
