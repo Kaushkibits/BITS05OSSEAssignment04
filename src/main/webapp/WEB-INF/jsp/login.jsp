@@ -18,12 +18,12 @@
 				<font color="red">${errorMessage}</font>
 				<form method ="POST">
 					<div class = "form-group">
-						<h1 style="color:green; text-decoration: underline;"> LOGIN FORM </h1>
+						<h1 style="color:green; text-decoration: underline;"> LOGIN APPLICATION FORM </h1>
 					</div>
 					
 					<div class ="form-group">
 						<h4 style="color:orange;">UserName :</h4>
-						<input type="text" id ="uname" name ="uname" required placeholder= "Enter Username" class ="form-control"/>
+						<input type="text" id ="uname" name ="uname" required placeholder= "Enter UserName" class ="form-control"/>
 					</div>
 					<div class ="form-group">
 						<h4 style="color:orange;">Password :</h4>
