@@ -39,4 +39,7 @@ public class LoginController {
 		
 		return "welcome to my home page!!";
 	}
+		public String showLoginPageError(ModelMap model){
+		return "Error";
+	}
 }
