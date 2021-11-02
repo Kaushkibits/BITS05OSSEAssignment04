@@ -2,6 +2,7 @@
 
 <head>
 <title>First Web Application</title>
+</b>
 </head>
 
 <body>
