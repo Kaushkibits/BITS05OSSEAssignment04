@@ -8,4 +8,8 @@ public class LoginService {
 	public boolean validateUserDetails(String userid, String password) {
 		return userid.equalsIgnoreCase("Dummy")
 				&& password.equalsIgnoreCase("Qwerty@123");
+		public boolean ShowError ()
+		{
+			//to show login service error
+		}
 }
