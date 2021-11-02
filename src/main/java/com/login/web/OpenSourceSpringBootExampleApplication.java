@@ -11,5 +11,7 @@ public class OpenSourceSpringBootExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpenSourceSpringBootExampleApplication.class, args);
 	}
-
+   public static void print()
+   {
+	   // to print something
 }
