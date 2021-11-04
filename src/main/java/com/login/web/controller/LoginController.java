@@ -31,15 +31,10 @@ public class LoginController {
 			model.put("errorMessage", "Login failed due to incorrect \n"
 					+ "username and password");
 			return "login";
-			
 		}
 		
 		model.put("name", uname);
 		model.put("password", password);
-		
-		return "welcome to my home page!!";
-	}
-		public String showLoginPageError(ModelMap model){
-		return "Error";
+		return "welcome";
 	}
 }
