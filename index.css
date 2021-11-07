@@ -23,7 +23,8 @@ header {
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
-  font-weight: thin;
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #main-doc header {
