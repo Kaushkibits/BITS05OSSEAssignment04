@@ -14,4 +14,7 @@ Below is the ReadMe file content
 
 •	Troubleshooting: How to troubleshoot, where to look, Reviewing updates in files.
 
-•	Success Criteria: Once done, message displayed to confirm on how it works is the indication that the project is successfully deployed.
+Learnings
+It helps to collaborate among group members and learn about pull request and merge the code. It helps to know how to resolve the conflicts among team members.
+
+•	Success Criteria: Once done, message displayed to confirm on how it works is the indication that the project is successfully deployed. Helps to collaborate among team members and successfully committing the files.
